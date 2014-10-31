@@ -1,0 +1,9 @@
+c:\users\m. reza irvanda\documents\visual studio 2012\Projects\KBBI-Crawler-2\KBBI-Crawler-2\bin\Debug\KBBI-Crawler-2.exe.config
+C:\Users\M. Reza Irvanda\Documents\Visual Studio 2012\Projects\KBBI-Crawler-2\KBBI-Crawler-2\bin\Debug\KBBI-Crawler-2.exe
+C:\Users\M. Reza Irvanda\Documents\Visual Studio 2012\Projects\KBBI-Crawler-2\KBBI-Crawler-2\bin\Debug\KBBI-Crawler-2.pdb
+C:\Users\M. Reza Irvanda\Documents\Visual Studio 2012\Projects\KBBI-Crawler-2\KBBI-Crawler-2\bin\Debug\HtmlAgilityPack.dll
+C:\Users\M. Reza Irvanda\Documents\Visual Studio 2012\Projects\KBBI-Crawler-2\KBBI-Crawler-2\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\M. Reza Irvanda\Documents\Visual Studio 2012\Projects\KBBI-Crawler-2\KBBI-Crawler-2\bin\Debug\HtmlAgilityPack.xml
+C:\Users\M. Reza Irvanda\Documents\Visual Studio 2012\Projects\KBBI-Crawler-2\KBBI-Crawler-2\obj\Debug\KBBI-Crawler-2.exe
+C:\Users\M. Reza Irvanda\Documents\Visual Studio 2012\Projects\KBBI-Crawler-2\KBBI-Crawler-2\obj\Debug\KBBI-Crawler-2.pdb
+C:\Users\M. Reza Irvanda\Documents\Visual Studio 2012\Projects\KBBI-Crawler-2\KBBI-Crawler-2\obj\Debug\KBBI-Crawler-2.csprojResolveAssemblyReference.cache
